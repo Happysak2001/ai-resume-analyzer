@@ -1,3 +1,7 @@
+## App Screenshot
+
+![App Screenshot](screenshot.png)
+
 ## Live Demo
 [Try the app here](https://happies-ai-resume-analyzer.streamlit.app/)
 
