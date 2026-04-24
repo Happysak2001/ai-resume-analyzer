@@ -1,2 +1,6 @@
 streamlit
 groq
+pdfplumber
+docx2txt
+python-docx
+reportlab
